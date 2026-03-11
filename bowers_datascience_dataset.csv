@@ -1,0 +1,39 @@
+patient_id,age,gender,bmi,procedure,asa_class,mfi5,frailty_category,kps_score,charlson_index,albumin_gdl,sodium_meql,preop_hgb_gdl,hypertension,diabetes,chf,copd,prior_stroke,op_time_min,ebl_ml,any_complication,los_days,discharge_disposition,readmit_30d
+NS001,62,Male,27.4,Cervical Fusion,4,3,Frail,60,5,4.1,135.4,13.2,1,1,1,0,0,98,320,0,11.2,SNF/Rehab,0
+NS002,88,Male,35.7,Lumbar Fusion,4,4,Frail,60,4,3.5,140.1,13,1,0,1,0,0,245,580,1,14,SNF/Rehab,1
+NS003,67,Male,22.2,Cervical Fusion,2,2,Pre-Frail,60,3,3.9,142.2,13.9,1,1,0,0,0,202,560,1,9.8,SNF/Rehab,1
+NS004,81,Female,36.1,Cervical Fusion,4,4,Frail,50,3,3.9,140.2,11.5,1,0,0,1,0,181,390,1,11,SNF/Rehab,1
+NS005,61,Female,26.4,Cervical Fusion,4,2,Pre-Frail,60,2,3.6,144.1,13.3,0,1,0,0,0,156,490,1,14,Home with Services,0
+NS006,63,Female,24.7,Cervical Fusion,4,2,Pre-Frail,70,3,4,143.2,11.3,1,0,0,1,0,174,370,1,8.7,Home with Services,0
+NS007,73,Male,25.4,Craniotomy,4,4,Frail,50,3,3.5,141,14.3,0,0,1,0,0,285,790,0,14.9,Home with Services,1
+NS008,74,Female,24.7,Craniotomy,4,4,Frail,50,6,3.2,132.9,12.3,1,1,1,0,0,229,600,0,15.4,SNF/Rehab,0
+NS009,62,Female,17,Lumbar Fusion,3,2,Pre-Frail,90,2,3.4,134,14.3,1,0,0,0,0,223,480,0,9.8,Home,0
+NS010,33,Male,31.9,Spinal Decompression,1,0,Non-Frail,90,1,4.3,134.5,10.7,0,0,0,0,0,113,370,0,6.3,Home,0
+NS011,61,Male,32.7,Cervical Fusion,2,2,Pre-Frail,70,4,3.8,135.5,13.2,1,1,0,0,0,180,320,1,9.1,Home with Services,1
+NS012,72,Female,35.6,Craniotomy,4,3,Frail,70,6,3.5,141.5,11.1,1,1,1,1,0,191,440,1,13.1,SNF/Rehab,1
+NS013,64,Female,32.3,Cervical Fusion,2,2,Pre-Frail,70,4,3.6,143,13,1,1,0,0,0,125,290,1,10.6,SNF/Rehab,0
+NS014,69,Female,32,Spinal Decompression,3,2,Pre-Frail,70,4,4,138.7,11.9,0,1,0,1,0,130,340,0,9.3,Home with Services,0
+NS015,67,Female,18.5,Spinal Decompression,4,3,Frail,60,5,3.3,146.1,12.3,1,1,0,1,0,63,240,0,12.1,SNF/Rehab,1
+NS016,45,Male,29.3,Craniotomy,3,1,Pre-Frail,90,0,3.6,134.1,13.1,0,0,0,0,0,303,670,0,8.6,Home,0
+NS017,75,Male,21.6,Spinal Decompression,3,3,Frail,50,6,3.3,139.8,13.3,1,1,1,0,0,143,350,1,14,SNF/Rehab,1
+NS018,56,Male,26.6,Lumbar Fusion,3,1,Pre-Frail,80,0,4.2,134.6,13.8,0,0,0,0,0,321,650,0,9.7,Home,0
+NS019,57,Male,36.3,Craniotomy,2,2,Pre-Frail,70,3,3.7,141.1,11.6,0,1,0,0,0,207,390,0,13.5,Home,0
+NS020,71,Female,28.4,Cervical Fusion,3,2,Pre-Frail,70,2,3.8,139.8,12.5,1,0,0,0,0,211,570,0,8.6,Home,0
+NS021,54,Female,17,Craniotomy,3,2,Pre-Frail,70,2,3.6,139.4,12.5,1,0,0,1,0,330,680,1,11.4,Home with Services,0
+NS022,67,Male,22.4,VP Shunt,4,4,Frail,40,2,3.4,139.8,12.5,1,0,0,0,0,86,400,1,9.7,Home with Services,1
+NS023,52,Male,24.9,Craniotomy,4,3,Frail,70,4,3.4,144.6,11.8,0,1,0,1,0,93,340,0,10.5,SNF/Rehab,1
+NS024,61,Male,26.9,Craniotomy,4,2,Pre-Frail,70,4,3.7,135,14.5,0,1,0,1,0,263,520,1,13.9,SNF/Rehab,1
+NS025,59,Female,33.6,VP Shunt,2,0,Non-Frail,90,0,4,136.9,14.4,0,0,0,0,0,107,130,0,5.7,Home,0
+NS026,57,Female,33.1,Spinal Decompression,4,3,Frail,40,2,3.7,138.7,11.3,0,1,0,0,0,118,300,1,8.2,SNF/Rehab,1
+NS027,53,Female,32.9,VP Shunt,4,1,Pre-Frail,70,1,4.4,134.7,10.8,1,0,0,0,0,51,160,0,6.4,Home,0
+NS028,63,Female,29.5,VP Shunt,4,1,Pre-Frail,80,0,3.8,131.8,14.8,0,0,0,0,0,104,260,0,6,Home,0
+NS029,65,Male,26.5,Spinal Decompression,4,3,Frail,50,3,3.8,133.6,12.3,1,0,1,0,0,168,500,0,10.4,Home with Services,1
+NS030,76,Male,26.1,Lumbar Fusion,3,2,Pre-Frail,70,0,3.7,139.6,10.8,0,0,0,0,0,54,220,1,7.9,SNF/Rehab,1
+NS031,56,Male,30.7,Lumbar Fusion,3,2,Pre-Frail,70,0,3.5,140.4,13.5,0,0,0,0,0,70,260,1,7.6,Home with Services,0
+NS032,64,Male,33.6,Cervical Fusion,4,3,Frail,60,7,3.6,144.3,14.6,1,1,1,1,0,121,360,1,10.7,SNF/Rehab,1
+NS033,88,Female,37.2,Cervical Fusion,4,4,Frail,40,3,3.3,144.2,11.9,1,0,0,1,0,171,500,0,11.3,SNF/Rehab,0
+NS034,69,Female,28.7,Cervical Fusion,4,3,Frail,40,7,3.1,146.1,12.2,1,1,0,1,1,235,480,1,11.5,SNF/Rehab,0
+NS035,70,Male,29.9,Cervical Fusion,3,3,Frail,70,5,3.6,142.3,13.3,1,1,0,1,0,154,490,0,10.1,Home with Services,1
+NS036,69,Male,36.8,Cervical Fusion,3,2,Pre-Frail,70,4,3.4,134.8,14,0,1,0,1,0,179,500,1,9.8,SNF/Rehab,0
+NS037,41,Female,21.9,Lumbar Fusion,2,0,Non-Frail,90,0,4.4,136.7,12.9,0,0,0,0,0,133,220,0,7.9,Home,0
+NS038,60,Male,33,Craniotomy,3,4,Frail,50,3,3.6,141.4,12.8,1,0,0,0,1,265,510,0,12.6,SNF/Rehab,0
