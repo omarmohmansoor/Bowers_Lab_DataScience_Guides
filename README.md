@@ -1,3 +1,6 @@
+<img width="1080" height="360" alt="BowersLab" src="https://github.com/user-attachments/assets/f46106e1-0973-4924-bbeb-675901f78437" />
+
+
 Data Science Guidelines in Python for the Bowers Neurosurgical Frailty and Outcomes Data Science Lab
 
 Maintained by **Omar M. M. Mansoor** (**omarmohmansoor@gmail.com**)
