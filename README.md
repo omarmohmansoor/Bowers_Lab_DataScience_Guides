@@ -12,3 +12,7 @@ Website: https://www.bowersneurosurgicalfrailtylab.com/
 
 
 **Interested in joining our lab? Send us an email at researchfrailty@gmail.com**
+
+**Articles/Resources**
+
+_Designing Effective Scientific Figures (https://www.nature.com/articles/s41562-026-02466-9.epdf?sharing_token=Vb4ojUtkAPBxxdpUxQIr39RgN0jAjWel9jnR3ZoTv0OKwVckclksFP8xYJ_THOoda3l57wvB9WgUdgUWisSYCTXOyvxHq0ln-FM04rAnusU94EZBM2IWBOZ4_ZyyPQOf1DZy8wTF7j4qqp1n1yP51yE-2YE1A-wQeHSL2Hbl1AY%3D)_
